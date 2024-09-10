@@ -8,3 +8,15 @@
   font-family: "young-serif";
   src: url("../assets/fonts/young-serif/YoungSerif-Regular.ttf");
 }
+
+/* Reset */
+* {
+  box-sizing: border-box;
+}
+
+html,
+body,
+figure {
+  margin: 0;
+  padding: 0;
+}
